@@ -44,7 +44,7 @@ Software Engineer • Java • Spring Boot • React • AWS
 <td width="45%" align="center" valign="middle">
 
 <img src="https://github-readme-stats.vercel.app/api?username=PrajithYanapu&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="100%" alt="GitHub Stats">
-
+<img src="./prajith-github-dark-theme.svg" width="100%" alt="Prajith Kumar GitHub Profile"/>
 </td>
 </tr>
 </table>
