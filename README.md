@@ -26,24 +26,23 @@
 
 <div align="center">
 
-╔══════════════════════════════════════════════════════════════╗
-║                  PRAJITH@GITHUB:~$                           ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  $ whoami                                                    ║
-║  > Prajith Kumar                                              ║
-║  > Software Engineer                                          ║
-║                                                              ║
-║  $ status                                                    ║
-║  > Building • Learning • Deploying                            ║
-║                                                              ║
-║  $ focus                                                     ║
-║  > Backend Engineering | Full Stack | Cloud                  ║
-║                                                              ║
-║  $ stack                                                     ║
-║  > Java | Spring Boot | React | Python | AWS                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+
+                    PRAJITH@GITHUB:~$
+
+                                                              
+  $ whoami                                                    
+  > Prajith Kumar                                              
+  > Software Engineer                                          
+                                                              
+  $ status                                                    
+  > Building • Learning • Deploying                            ║                                                              
+  $ focus                                                     
+  > Backend Engineering | Full Stack | Cloud                  
+                                                            
+  $ stack                                                     
+  > Java | Spring Boot | React | Python | AWS                 
+                                                              
+
 
 </div>
 
