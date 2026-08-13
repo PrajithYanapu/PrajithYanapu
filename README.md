@@ -1,358 +1,322 @@
 <div align="center">
 
-<img src="./prajith-github-dark-theme.svg" width="100%" alt="Prajith Kumar GitHub Profile"/>
+👋 Hi, I'm Prajith Kumar
 
-<br><br>
-
-<h1>Hi 👋, I'm Prajith Kumar</h1>
-
-<h3>Software Engineer | Java | Spring Boot | React | AWS</h3>
+Software Engineer • Java • Spring Boot • React • AWS
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0B1020">
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF">
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=0B1020">
-</a>
+  <a href="https://github.com/PrajithYanapu">
+    <img src="https://img.shields.io/badge/GitHub-PrajithYanapu-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=PrajithYanapu&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge">
 
 </div>
 
-> whoami
-
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  prajith@github:~$ whoami                                    ║
-║                                                              ║
-║  Prajith Kumar                                               ║
-║  Software Engineer                                           ║
-║                                                              ║
-║  prajith@github:~$ ./build.sh                                ║
-║                                                              ║
-║  ✓ Java                                                       ║
-║  ✓ Spring Boot                                                ║
-║  ✓ React                                                      ║
-║  ✓ JavaScript                                                 ║
-║  ✓ Python                                                     ║
-║  ✓ AWS                                                        ║
-║  ✓ Full Stack Development                                     ║
-║                                                              ║
-║  prajith@github:~$ echo "Let's build something awesome."     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-> about_me
-
-name: Prajith Kumar
-role: Software Engineer
-
-education:
-  - B.Tech in Electronics & Communication Engineering
-
-focus:
-  - Java
-  - Spring Boot
-  - Full Stack Development
-  - React
-  - Node.js
-  - REST APIs
-  - AWS
-  - Cloud Technologies
-  - AI/ML
-
-currently:
-  - Building practical software projects
-  - Improving backend engineering skills
-  - Learning scalable system design
-  - Exploring cloud technologies
-
-> tech_stack
-
-💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-0B1020?style=for-the-badge&logo=openjdk&logoColor=00E5FF">
-<img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=22C55E">
-<img src="https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=FACC15">
-<img src="https://img.shields.io/badge/SQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=8B5CF6">
-<img src="https://img.shields.io/badge/HTML5-0B1020?style=for-the-badge&logo=html5&logoColor=F97316">
-<img src="https://img.shields.io/badge/CSS3-0B1020?style=for-the-badge&logo=css3&logoColor=38BDF8">
-</p>
-
-⚙️ Frameworks & Development
-
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-0B1020?style=for-the-badge&logo=springboot&logoColor=22C55E">
-<img src="https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=00E5FF">
-<img src="https://img.shields.io/badge/Node.js-0B1020?style=for-the-badge&logo=nodedotjs&logoColor=22C55E">
-<img src="https://img.shields.io/badge/Express.js-0B1020?style=for-the-badge&logo=express&logoColor=FFFFFF">
-</p>
-
-☁️ Cloud & Database
-
-<p>
-<img src="https://img.shields.io/badge/AWS-0B1020?style=for-the-badge&logo=amazonaws&logoColor=F59E0B">
-<img src="https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/MongoDB-0B1020?style=for-the-badge&logo=mongodb&logoColor=22C55E">
-<img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=38BDF8">
-</p>
-
-🛠️ Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=F97316">
-<img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/VS_Code-0B1020?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8">
-</p>
-
-> featured_projects
+👨‍💻 About Me
 
 <table>
 <tr>
+<td width="55%" valign="top">
 
-<td width="50%" valign="top">
+🎓 B.Tech in Electronics & Communication Engineering
 
-<h2>🧠 Smart Task Analyzer</h2>
+🤖 Minor in Artificial Intelligence & Machine Learning
 
-<p>
-AI-assisted task analysis application built using Django and React.
-</p>
+💻 Full Stack & Backend Developer
 
-<p><b>Tech Stack</b></p>
+☕ Java & Spring Boot enthusiast
 
-<p>Python • Django • React • JavaScript</p>
+⚛️ React / Node.js developer
 
-<a href="https://github.com/PrajithYanapu/Smart-Task-Analyzer">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=0B1020">
-</a>
+☁️ AWS & cloud technologies
 
-</td>
+🚀 Interested in scalable software systems
 
-<td width="50%" valign="top">
-
-<h2>🎮 Gesture Controlled Subway Surfers</h2>
-
-<p>
-Computer-vision based gesture-controlled gaming project.
-</p>
-
-<p><b>Tech Stack</b></p>
-
-<p>Python • OpenCV • MediaPipe</p>
-
-<a href="https://github.com/PrajithYanapu/Gesture-Controlled-Subway-Surfers-Game">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
+🏆 Smart India Hackathon experience
 
 </td>
+<td width="45%" align="center" valign="middle">
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>🚗 SmartCarHub</h2>
-
-<p>
-Full-stack car rental application using Java and Spring Boot.
-</p>
-
-<p><b>Tech Stack</b></p>
-
-<p>Java • Spring Boot • React • PostgreSQL</p>
-
-<a href="YOUR_SMARTCARHUB_REPOSITORY">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=0B1020">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=PrajithYanapu&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="100%" alt="GitHub Stats">
 
 </td>
-
-<td width="50%" valign="top">
-
-<h2>⚡ Green Energy EV Charging</h2>
-
-<p>
-Hybrid solar + wind roadside EV charging concept.
-</p>
-
-<p><b>Tech Stack</b></p>
-
-<p>Raspberry Pi • OpenCV • YOLO • IoT</p>
-
-<a href="YOUR_EV_PROJECT_REPOSITORY">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FACC15?style=for-the-badge&logo=github&logoColor=0B1020">
-</a>
-
-</td>
-
 </tr>
 </table>
 
-> github_stats
+🏆 Highlights
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrajithYanapu&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00E5FF&text_color=CBD5E1&icon_color=8B5CF6" width="49%">
+🏆 Smart India Hackathon
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajithYanapu&layout=compact&hide_border=true&bg_color=0B1020&title_color=00E5FF&text_color=CBD5E1" width="40%">
+<b>Finalist Experience</b>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=PrajithYanapu&hide_border=true&background=0B1020&ring=8B5CF6&fire=22C55E&currStreakLabel=00E5FF&sideLabels=CBD5E1&dates=64748B" width="70%">
+Worked on an innovative technology solution as part of the Smart India Hackathon ecosystem.
 
-</div>
+</td>
 
-> contribution_graph
+<td align="center" width="50%" valign="top">
 
-<div align="center">
+⚡ Green Energy EV Charging
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajithYanapu&bg_color=0B1020&color=00E5FF&line=8B5CF6&point=22C55E&area=true&hide_border=true" width="95%">
+<b>Solar + Wind Powered EV Charging</b>
 
-</div>
+<br><br>
 
-> achievements
+Developed a roadside EV charging concept combining renewable energy sources with smart safety features.
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  🏆 SMART INDIA HACKATHON                                    ║
-║     Participated / Finalist experience                       ║
-║                                                              ║
-║  ⚡ GREEN ENERGY EV CHARGING                                 ║
-║     Solar + Wind powered roadside EV charging concept        ║
-║                                                              ║
-║  📜 PATENT INNOVATION                                        ║
-║     Patent-listed innovation from SIH project                ║
-║                                                              ║
-║  💻 FULL STACK DEVELOPMENT                                   ║
-║     Java • Spring Boot • React • Node.js • Python            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+</td>
+</tr>
 
-> what_i_build
+<tr>
+<td align="center" width="50%" valign="top">
 
-<div align="center">
+📜 Patent Innovation
 
-                    ┌──────────────────┐
-                    │      IDEA        │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │      DESIGN      │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │     DEVELOP      │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │      TEST        │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │     DEPLOY       │
-                    └──────────────────┘
+<b>Patent-Listed Innovation</b>
 
-</div>
+<br><br>
 
-> currently_learning
+Innovation associated with the Smart India Hackathon project and renewable-energy EV charging concept.
 
-<div align="center">
+</td>
 
-Java & Spring Boot       [████████████████████] 100%
+<td align="center" width="50%" valign="top">
 
-Data Structures          [██████████████████░░]  90%
+💻 Full Stack Development
 
-AWS & Cloud              [████████████████░░░░]  80%
+<b>Modern Web Technologies</b>
 
-System Design            [███████████████░░░░░]  75%
+<br><br>
 
-DevOps & CI/CD           [██████████████░░░░░░]  70%
+Java • Spring Boot • React • Node.js • Python • JavaScript • SQL
 
-</div>
+</td>
+</tr>
+</table>
 
-> developer_mode
+🛠️ Tech Stack
 
-$ git status
+Languages
 
-On branch main
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" alt="Languages">
+</p>
 
-Changes to be committed:
+Frameworks & Libraries
 
-  + Java
-  + Spring Boot
-  + React
-  + AWS
-  + Docker
-  + System Design
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tensorflow,opencv" alt="Frameworks and Libraries">
+</p>
 
-$ git commit -m "building the future"
+Databases & Cloud
 
-[main] building the future 🚀
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,aws,docker,git,github" alt="Databases and Cloud">
+</p>
 
-$ git push origin main
+🚀 Featured Projects
 
-Everything up-to-date.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> connect_with_me
+🧠 Smart Task Analyzer
 
-<div align="center">
+AI-assisted task management and analysis application.
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  prajith@github:~$ echo "Let's connect!"                     ║
-║                                                              ║
-║  > Software Development                                     ║
-║  > Backend Engineering                                      ║
-║  > Full Stack Development                                   ║
-║  > Cloud & AWS                                               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+Tech Stack
+
+Python Django React JavaScript
 
 <br>
 
+<a href="https://github.com/PrajithYanapu/Smart-Task-Analyzer">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="Smart Task Analyzer">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🎮 Gesture Controlled Subway Surfers
+
+Computer-vision based game controller using hand gestures.
+
+Tech Stack
+
+Python OpenCV MediaPipe
+
+<br>
+
+<a href="https://github.com/PrajithYanapu/Gesture-Controlled-Subway-Surfers-Game">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="Gesture Controlled Subway Surfers">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🚗 SmartCarHub
+
+Full-stack car rental application with backend REST APIs.
+
+Tech Stack
+
+Java Spring Boot React PostgreSQL
+
+</td>
+
+<td width="50%" valign="top">
+
+⚡ Green Energy EV Charging
+
+Renewable-energy roadside EV charging concept using solar and wind energy.
+
+Tech Stack
+
+IoT Raspberry Pi YOLO OpenCV Renewable Energy
+
+</td>
+</tr>
+</table>
+
+📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrajithYanapu&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajithYanapu&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=PrajithYanapu&hide_border=true&theme=transparent" width="70%" alt="GitHub streak">
+
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajithYanapu&hide_border=true&area=true&custom_title=Prajith%20Kumar's%20Contribution%20Graph" width="95%" alt="Contribution graph">
+
+</div>
+
+🏅 Achievements
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+🏆
+
+<b>Smart India Hackathon</b>
+
+<br>
+
+Finalist / Participant Experience
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+📜
+
+<b>Patent Innovation</b>
+
+<br>
+
+Patent-listed project innovation
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+🚀
+
+<b>Engineering Projects</b>
+
+<br>
+
+Full-stack, AI/ML & IoT projects
+
+</td>
+</tr>
+</table>
+
+💡 What I Work With
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+☕<br>
+<b>Java</b><br>
+Spring Boot
+
+</td>
+
+<td align="center" width="25%">
+
+⚛️<br>
+<b>Frontend</b><br>
+React
+
+</td>
+
+<td align="center" width="25%">
+
+☁️<br>
+<b>Cloud</b><br>
+AWS
+
+</td>
+
+<td align="center" width="25%">
+
+🤖<br>
+<b>AI / ML</b><br>
+Python
+
+</td>
+</tr>
+</table>
+
+📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/PrajithYanapu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0B1020">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-22C55E?style=for-the-badge&logo=gmail&logoColor=0B1020">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=PrajithYanapu&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge">
 
 </div>
 
 <div align="center">
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  prajith@github:~$ ./continue_learning.sh                   ║
-║                                                              ║
-║  ██████████████████████████████████████████████████████     ║
-║                                                              ║
-║             KEEP BUILDING. KEEP LEARNING. 🚀                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+🚀 Building. Learning. Creating.
 
-<br>
-
-</> Built with code, curiosity & caffeine ☕
+Thanks for visiting my profile! ⭐
 
 </div>
