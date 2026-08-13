@@ -40,14 +40,7 @@ Software Engineer • Java • Spring Boot • React • AWS
 
 🏆 Smart India Hackathon experience
 
-</td>
-<td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrajithYanapu&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="100%" alt="GitHub Stats">
-
-</td>
-</tr>
-</table>
 
 🏆 Highlights
 
