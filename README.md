@@ -1,20 +1,5 @@
-┌─────────────────────────────────────┐
-│          Custom Banner              │
-│                                     │
-│        Hi 👋, I'm ...               │
-│        About Me                     │
-│        Skills / Languages           │
-│        Social Links                 │
-│        GitHub Stats                 │
-└─────────────────────────────────────┘
+![Uploading image.png…]()
 
-Popular Repositories
-┌─────────────┐ ┌─────────────┐
-│ Project 1   │ │ Project 2   │
-└─────────────┘ └─────────────┘
-
-Contribution Graph
-████████████████████
 banner.png
 <p align="center">
   <img src="./banner.png" width="100%">
