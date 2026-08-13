@@ -24,9 +24,7 @@
 
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PrajithYanapu&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge">
-</p>
+
 
 ---
 
@@ -428,6 +426,6 @@ Modern Web Applications
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PrajithYanapu&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge">
+
 
 </p>
