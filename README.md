@@ -249,34 +249,24 @@ Raspberry Pi • OpenCV • YOLO • IoT
 <b>Smart India Hackathon</b>
 
 <br>
-
+MSME 3.0 winner in power sector
 Hackathon Experience
 
 </td>
 
 <td align="center" width="25%">
 
-<h2>⚡</h2>
+<h2>⚡|📜</h2>
 
-<b>EV Innovation</b>
-
-<br>
-
-Green Energy Charging
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>📜</h2>
-
-<b>Patent</b>
+<b>EV Innovation & Patent</b>
 
 <br>
 
-Patent-listed Innovation
+Roadside Electric Vehicle Charging Unit using Wind Energy
 
 </td>
+
+
 
 <td align="center" width="25%">
 
@@ -286,7 +276,7 @@ Patent-listed Innovation
 
 <br>
 
-Modern Web Applications
+Smart Car Hub (An online car rental application)
 
 </td>
 
