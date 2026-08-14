@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/prajith-kumar18/">
 <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0B1020">
 </a>
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto: prajithkumar2123@gmail.com">
 <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=0B1020">
 </a>
 
